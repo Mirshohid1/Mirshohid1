@@ -6,6 +6,7 @@ I'm a passionate **Python Backend Developer** specializing in Django and DRF. Cu
 I love diving deep into backend technologies, optimizing database performance, and writing clean, scalable code.
 
 ## 🚀 Tech Stack & Skills
+> Note: This may not be an exhaustive list of my skills, as I am always learning and expanding my expertise.
 ### 🔹 Backend Development
 - **Python** (Advanced)
 - **Django & Django REST Framework**
@@ -31,6 +32,7 @@ I love diving deep into backend technologies, optimizing database performance, a
 - **Factory Boy & Faker** (Test data generation)
 
 ### 🔹 Other Technologies
+- **Bootstrap** (Styling & UI Framework)
 - **HTML, CSS, JavaScript (Basic knowledge)**
 - **Linux & Bash Scripting**
 - **JSON, CSV Parsing & File Handling**
@@ -48,7 +50,7 @@ I love diving deep into backend technologies, optimizing database performance, a
 </p>
 
 ## 📫 How to Reach Me
-- **Email:** mirshoxidmirshoxidov@gmail.com
+- **Email:** mirshoxirmirshoxidov@gmail.com
 - **LinkedIn:** [YourLinkedIn](https://www.linkedin.com/in/yourprofile)
 
 Let's connect and build something awesome! 🚀
