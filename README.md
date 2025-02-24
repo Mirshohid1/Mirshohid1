@@ -37,8 +37,8 @@ I love diving deep into backend technologies, optimizing database performance, a
 - **Algorithm Optimization & Performance Tuning**
 
 ## 📊 GitHub Stats
-![Mirshoxid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mirshohid1GitHubUsername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirshohid1GitHubUsername&layout=compact&theme=dark)
+![Mirshoxid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mirshohid1&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirshohid1&layout=compact&theme=dark)
 
 ## 📫 How to Reach Me
 - **Telegram:** [@YourTelegram](https://t.me/YourTelegram)
