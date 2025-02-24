@@ -1,4 +1,4 @@
-# Hi there, I'm Akachian! 👋
+# Hi there, I'm Mirshoxid Mirshoxidov! 👋
 
 ## 💻 About Me
 I'm a passionate **Python Backend Developer** specializing in Django and DRF. Currently, I'm building **MindFlow**, a complex blog platform with advanced architecture. I also plan to develop a **marketplace**, **Telegram bots**, an **analytics service**, and more!
