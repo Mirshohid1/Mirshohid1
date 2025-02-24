@@ -1,4 +1,4 @@
-# Hi there, I'm Mirshoxid Mirshoxidov! 👋
+# Hi there, I'm Akachian! 👋
 
 ## 💻 About Me
 I'm a passionate **Python Backend Developer** specializing in Django and DRF. Currently, I'm building **MindFlow**, a complex blog platform with advanced architecture. I also plan to develop a **marketplace**, **Telegram bots**, an **analytics service**, and more!
@@ -37,12 +37,18 @@ I love diving deep into backend technologies, optimizing database performance, a
 - **Algorithm Optimization & Performance Tuning**
 
 ## 📊 GitHub Stats
-![Mirshoxid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mirshohid1&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirshohid1&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mirshohid1&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mirshohid1&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirshohid1&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+</p>
 
 ## 📫 How to Reach Me
-- **Telegram:** [@YourTelegram](https://t.me/YourTelegram)
-- **Email:** your.email@example.com
+- **Email:** mirshoxidmirshoxidov@gmail.com
 - **LinkedIn:** [YourLinkedIn](https://www.linkedin.com/in/yourprofile)
 
 Let's connect and build something awesome! 🚀
